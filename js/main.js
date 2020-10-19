@@ -76,5 +76,5 @@
       currentNum++;
       setQuiz();
     }
-  })
+  });
 }
